@@ -1,0 +1,119 @@
+Name,Symbol,Density (g/cm³),number of atoms per volume unit (Zetta-atoms/cm³),Atomic number,Description/Mohs' hardness,Color,Notes
+0.00008988
+0.0001785
+0.0008999
+0.0012506
+0.001429
+0.001696
+0.0017837
+0.003214
+0.003733
+0.005887
+Radon,Rn,0.00973,0.027,86,noble gas,,"radioactive, comes from radium"
+Lithium,Li,0.534,46.331,3,0.6,silvery white/gray,used in batteries
+Potassium,K,0.862,13.277,19,0.4,silvery white,"forms many compounds, essential nutrient in plants and animals"
+Sodium,Na,0.971,25.435,11,0.5,"waxy, silvery white","burns with a yellow flame, reacts violently with water, and oxidizes in air necessitating storage in an inert environment"
+Rubidium,Rb,1.532,10.795,37,0.3,silvery-white,"low melting point, reacts violently with water like sodium"
+Calcium,Ca,1.54,23.140,20,1.75,gray,"reacts slowly with water, tarnishes quickly in air"
+Magnesium,Mg,1.738,43.063,12,2.5,silvery metallic,"brittle, flammable, used in lightweight alloys, burns with a bright flame"
+Phosphorus,P,1.82,35.386,15,nonmetal,waxy white/ red/ black/ colorless,"Due to its high reactivity, it is never found as a free element in nature. Phosphorus compounds are essential to living things"
+Beryllium,Be,1.85,123.621,4,5.5,gray metallic,"brittle, toxic, used in lightweight alloys, e.g. spacecraft and missiles."
+Francium,Fr,1.87,5.050,87,radioactive alkali metal,,"alkali metal isotope found in uranium and thorium ores, reacts explosively with air and water."
+Caesium,Cs,1.873,8.487,55,0.2,silvery gold,"liquid at or near room temperature, very reactive, reacts explosively with water."
+Sulfur,S,2.067,38.820,16,2.0,lemon yellow,
+Carbon,C,3.513,113.667,6,10.0 (diamond),colorless,
+Carbon,C,2.267,49.952,6,1-2 (graphite),black,
+Silicon,Si,2.3296,130.347,14,6.5 metalloid,"dark gray, bluish tinge",Used in semiconductors and electronics.
+Boron,B,2.34,18.144,5,9.3,"black/brown/ amorphous boron is a brown powder, metallic boron is black",The metallic form is hard (9.3 on Mohs' scale) and a poor conductor at room temperature.
+Strontium,Sr,2.64,60.218,38,1.5,a soft silver-white or yellowish metallic element,The metal turns yellow when exposed to air. somewhat malleable. It is chiefly employed (as in the nitrate) to color pyrotechnic flames red.
+Aluminium,Al,2.698,40.040,13,2.75,silvery,"non-magnetic, very reflective, lightweight, common building material."
+Scandium,Sc,2.989,23.530,21,transition metal,"soft, silvery, develops a slightly yellowish or pinkish cast when exposed to air",not attacked by a 1:1 mixture of nitric acid(HNO3) and 48% HF
+Bromine,Br,3.122,176.141,35,halogen,gas/liquid: red-brown solid: metallic luster,a red volatile liquid at standard room temperature. This element is corrosive to human tissue
+Barium,Ba,3.594,15.761,56,1.25,metallic,"Naturally occurring barium is a mix of seven stable isotopes. There are twenty-two isotopes known, but most of these are highly radioactive and have half-lives in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes)."
+Yttrium,Y,4.469,30.271,39,transition metal,silvery metallic,two of its compounds are used to make the red color phosphors in cathode ray tube displays
+Titanium,Ti,4.540,57.118,22,6.0,silvery metallic,"corrosion-resistant (including resistance to sea water and chlorine, high tensile strength"
+Selenium,Se,4.809,36.677,34,2.0,"gray, metallic luster","Selenium has at least 29 isotopes, of which 5 are stable, and 6 are nuclear isomers."
+Iodine,I,4.93,23.395,53,halogen solid that sublimes at standard temperatures into a purple-pink gas that has an irritating odor,"violet-dark gray, lustrous","least reactive of the halogens, still a strong oxidizing agent."
+Europium,Eu,5.243,20.777,63,lanthanide,,
+Germanium,Ge,5.323,44.130,32,6.0,,Used in semiconductors and LED's
+Radium,Ra,5.50,14.656,88,,"almost pure white, readily oxidizes on exposure to air, turning black","Radium preparations are remarkable for maintaining themselves at a higher temperature than their surroundings, and for their radiations: alpha particles, beta particles, and gamma rays. Radium also produces neutrons when mixed with beryllium."
+Arsenic,As,5.776,46.427,33,3.5,"metallic gray, allotropic forms; yellow, black and grey",poisonous
+Gallium,Ga,5.907,51.020,31,1.5,,"melts at 29.7 degrees Celsius (just above room temperature), Used in semiconductors."
+Vanadium,V,6.11,72.230,23,7.0,,Brittle. Used to make tool steels.
+Lanthanum,La,6.145,26.641,57,2.5,,
+Tellurium,Te,6.232,29.412,52,2.25,silvery lustrous gray,
+Zirconium,Zr,6.506,42.949,40,5.0,,
+Antimony,Sb,6.685,33.063,51,3.0,silvery lustrous grey,toxic
+Cerium,Ce,6.770,29.097,58,2.5,resembles iron,"Used in ceramics and glassmaking, component of ""flints"" in cigarette lighters."
+Praseodymium,Pr,6.773,28.947,59,soft,"silvery white, yellowish tinge",
+Ytterbium,Yb,6.965,24.240,70,,,
+Astatine,At,7 approximately,20.074,85,,,Extremely rare
+Neodymium,Nd,7.007,29.254,60,,,used in powerful permanent magnets and LASERs
+Zinc,Zn,7.134,65.682,30,2.5,,"Used to ""galvanize"" nails, sheet metal, and such."
+Chromium,Cr,7.15,82.811,24,8.5,,"e.g. Stainless steels, chrome plating, heating coils; +6 compounds are toxic."
+Promethium,Pm,7.26,30.152,61,,,
+Tin,Sn,7.287,36.967,50,1.5 soft metal,,Main component of solder.
+Indium,In,7.310,38.341,49,soft metal,,
+Manganese,Mn,7.44,81.555,25,6.0,,
+Samarium,Sm,7.52,30.118,62,,,
+Iron,Fe,7.874,84.911,26,metal,,Most stable element. Greatest number of stable isotopes.
+Gadolinium,Gd,7.895,30.235,64,,,Phosphor in TV tubes and fluorescent lights.
+Terbium,Tb,8.229,31.182,65,,,Phosphor in TV tubes and fluorescent lights.
+Dysprosium,Dy,8.55,31.686,66,,,
+Niobium,Nb,8.570,55.550,41,,,
+Cadmium,Cd,8.69,46.555,48,,,"toxic, used in batteries"
+Holmium,Ho,8.795,32.113,67,,,
+Cobalt,Co,8.86,90.537,27,,,"ferromagnetic, used in high temperature alloys, blue pigments, moderate toxicity"
+Nickel,Ni,8.912,91.440,28,,,"alloys, nickel plating"
+Copper,Cu,8.96,84.912,29,,,"""noble"" metal, good conductor of electricity and heat"
+Erbium,Er,9.066,32.642,68,,,
+Polonium,Po,9.32,19.221,84,,,radioactive
+Ununhexium,Uuh,9.32 or greater,26.727 or greater,116,,,"man-made, highly unstable"
+Thulium,Tm,9.321,33.227,69,,,
+Bismuth,Bi,9.807,20.507,83,,,"electrical solders, fire suppressors, replacement for lead bullets"
+Ununpentium,Uup,9.807 or greater,28.261 or greater,115,,,"unstable, man-made"
+Lutetium,Lu,9.84,22.618,71,,,
+Lawrencium,Lr,9.84 or greater,33.868 or greater,103,,,artificial
+Actinium,Ac,10.07,26.715,89,,radioactive metallic element. glows in the dark with an eerie blue light.,
+Molybdenum,Mo,10.22,64.149,42,,,"In ""chrome-moly"" steels and other steels, lubricants"
+Silver,Ag,10.501,58.626,47,,,"noble metal, in money, jewelry, eating utensils, soldering and brazing alloys"
+Lead,Pb,11.342,23.634,82,,,"toxic, being phased out in most applications"
+Ununquadium,Uuq,11.342 or greater,32.962 or greater,114,,,"unstable, man-made"
+Technetium,Tc,11.50,70.668,43,,,"man-made, used in nuclear medicine."
+Thorium,Th,11.72,30.549,90,,,Possible nuclear fuel
+Thallium,Tl,11.85,34.916 or greater,81,,,"toxic, high-temperature superconductors"
+Ununtrium,Uut,11.85 or greater,25.128,113,,,artificial element
+Palladium,Pd,12.020,68.018,46,,,
+Ruthenium,Ru,12.37,73.704,44,,,
+Rhodium,Rh,12.41,72.625,45,,,
+Hafnium,Hf,13.31,44.907,72,,,
+Einsteinium,Es,13.5 (Estimate),32.261 (Estimate),99,,,artificial
+Curium,Cm,13.51,32.939,96,,,artificial
+Mercury,Hg,13.5336,40.631,80,,,liquid at room temperature; toxic; in batteries and thermometers
+Ununbium,Uub,13.5336 or greater,28.597,112,,,"artificial element,"
+Americium,Am,13.69,19.84,95,,,Am-241 used in smoke detectors.
+Berkelium,Bk,14.79,36.060,97,,,artificial
+Californium,Cf,15.10,36.229,98,,,artificial
+Protactinium,Pa,15.37,39.890,91,,,artificial
+Tantalum,Ta,16.654,55.426,73,,,used in electrolytic capacitors
+Rutherfordium,Rf,18.1,41.763,104,,,artificial
+Uranium,U,18.95,51.739,92,,,nuclear fuel
+Tungsten,W,19.25,63.058,74,,,strong but brittle; heat resistant; extremely high melting point
+Gold,Au,19.282,42.691,79,,,
+Roentgenium,Rg,19.282 or greater,42.691 or greater,111,,,artificial
+Plutonium,Pu,19.816,33.788,94,,,nuclear fuel
+Neptunium,Np,20.45,48.152,93,,,
+Rhenium,Re,21.02,67.981,75,,,
+Platinum,Pt,21.46,66.246,78,,,precious metal and industrial catalyst
+Darmstadtium,Ds,21.46 or greater,47.688 or greater,110,,,artificial
+Osmium,Os,22.610,71.577,76,,,
+Iridium,Ir,22.650,70.962,77,silvery-white,,Densest natural element
+Seaborgium,Sg,35 (Estimate),79.239 (Estimate)),106,,,"artificial, all remaining elements below are artificial"
+Meitnerium,Mt,35 (Estimate),78.647,109,,,
+Bohrium,Bh,37 (Estimate),84.401 (Estimate),107,,,
+Dubnium,Db,39 (Estimate),89.643 (Estimate),105,,,
+Hassium,Hs,41 (Estimate),89.136 (Estimate),108,,,
+Fermium,Fm,Unknown,Unknown,100,,,
+Mendelevium,Md,Unknown,Unknown,101,,,
+Nobelium,No,Unknown,Unknown,102,,,
+Oganesson,Og,Unknown,Unknown,118,,
