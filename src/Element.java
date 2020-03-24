@@ -11,6 +11,7 @@ public class Element {
     private int empirical_radius;
     private int calculated_radius;
     private double mass;
+    private double stated_density;
 
 
 
@@ -21,6 +22,7 @@ public class Element {
         this.name = name;
         this.empirical_radius = empirical_radius;
         this.calculated_radius = calculated_radius;
+        this.stated_density = -1;
         this.mass = -1;
 
     }
@@ -52,6 +54,8 @@ public class Element {
     public double getMass(){
         return mass;
     }
+
+    public double getStated_density() { return stated_density; }
 
     @Override
     public String toString() {
@@ -95,6 +99,32 @@ public class Element {
             return (mass/this.calcCalculatedVolume());
         }else {
             return -1;
+        }
+    }
+
+    public void setStated_density(double stated_density) {
+        this.stated_density = stated_density;
+    }
+
+    public double calcDifferenceInEmpiricalDensity(){
+        if(getStated_density() != -1 && this.calculateEmpericalDensity() != -1){
+           return getStated_density() - this.calculateEmpericalDensity();
+        }else {
+            return -1;
+        }
+    }
+
+    public double calcDifferenceInCalculatedDensity(){
+        if(getStated_density() != -1 && this.calculateEmpericalDensity() != -1){
+            return getStated_density() - this.calculateCalculatedDensity();
+        }else {
+            return -1;
+        }
+    }
+
+    public double calculateEmpiricalDistaceBetweenAtoms(){
+        if(this.calcDifferenceInEmpiricalDensity() != -1){
+            return getMass()/(Math.PI*getStated_density());
         }
     }
 
@@ -149,11 +179,27 @@ public class Element {
             System.out.println(elements[i].toString());
         }
 
+        //read density from file
+        double density[] = new double[118];
+        try {
+            BufferedReader br = new BufferedReader(new FileReader("src/atomicdensity.txt"));
+            for(int i = 0; i < 118;i++){
+                st = new StringTokenizer(br.readLine());
+                elements[i].setStated_density(Double.parseDouble(st.nextToken()));
+            }
+        }catch (IOException e){
+            e.printStackTrace();
+        }
+
+
 
         //Calculation
         for(int i = 0; i < 118; i++){
             System.out.println("Calculated density: " + elements[i].symbol + ": " + elements[i].calculateCalculatedDensity());
             System.out.println("Emperical density: " + elements[i].symbol + ": " + elements[i].calculateEmpericalDensity() + "\n");
+            System.out.println("HALLO " + elements[i].getStated_density());
+            System.out.println("\nDifference between stated density and empirical:\n" + elements[i].symbol + ": " + elements[i].calcDifferenceInEmpiricalDensity() + "\n");
+            System.out.println("\nDifference between stated density and calculated:\n" + elements[i].symbol + ": " + elements[i].calcDifferenceInCalculatedDensity() + "\n");
         }
 
 

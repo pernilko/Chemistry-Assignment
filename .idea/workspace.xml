@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5c56109-5fce-40fc-b760-896c92ea5869" name="Default Changelist" comment="" />
+    <list default="true" id="d5c56109-5fce-40fc-b760-896c92ea5869" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment/AtomicValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment/Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atomicdensity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/atomicdensity.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZJbFG5yMt8CpA0GFZtIFeCMMs7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Høst/Algoritmer og datastrukturer/Algdat_Ø8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RunManager">
@@ -64,7 +74,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584560038097</updated>
-      <workItem from="1584560042183" duration="17643000" />
+      <workItem from="1584560042183" duration="19113000" />
+      <workItem from="1584661387559" duration="599000" />
+      <workItem from="1585074794569" duration="2217000" />
     </task>
     <servers />
   </component>
@@ -80,26 +92,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="922" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1584563398533" />
-    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1584569660386">
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1584643881351">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584569660386" />
-    <state width="1493" height="159" key="GridCell.Tab.0.bottom" timestamp="1584579796869">
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584643881351" />
+    <state width="723" height="388" key="GridCell.Tab.0.bottom" timestamp="1585077322294">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="159" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584579796869" />
-    <state width="1493" height="159" key="GridCell.Tab.0.center" timestamp="1584579796869">
+    <state width="723" height="388" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585077322294" />
+    <state width="723" height="388" key="GridCell.Tab.0.center" timestamp="1585077322294">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="159" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584579796869" />
-    <state width="1493" height="159" key="GridCell.Tab.0.left" timestamp="1584579796868">
+    <state width="723" height="388" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585077322294" />
+    <state width="723" height="388" key="GridCell.Tab.0.left" timestamp="1585077322293">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="159" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584579796868" />
-    <state width="1493" height="159" key="GridCell.Tab.0.right" timestamp="1584579796869">
+    <state width="723" height="388" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585077322293" />
+    <state width="723" height="388" key="GridCell.Tab.0.right" timestamp="1585077322294">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="159" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584579796869" />
+    <state width="723" height="388" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585077322294" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1584571949929">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -116,5 +128,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1584571949929" />
+    <state x="209" y="39" key="new project wizard" timestamp="1584643883363">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="39" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1584643883363" />
   </component>
 </project>
