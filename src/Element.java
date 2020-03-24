@@ -177,6 +177,7 @@ public class Element {
             e.printStackTrace();
         }
 
+        System.out.println("OUTPUT FOR ØVING: (-1 values means no data\n");
         for(int i=0;i < 118; i++){
             System.out.println(elements[i].toString());
         }
@@ -195,14 +196,14 @@ public class Element {
 
 
 
-        //Calculation
+        //Calculations
         for(int i = 0; i < 118; i++){
             System.out.println(elements[i].getName() + " ("+ elements[i].getSymbol() + "):\n");
             System.out.println("Calculated density:" + elements[i].calculateCalculatedDensity());
             System.out.println("Emperical density: " + elements[i].calculateEmpericalDensity());
             System.out.println("Difference between stated density and empirical: " + elements[i].calcDifferenceInEmpiricalDensity());
             System.out.println("Difference between stated density and calculated: " + elements[i].calcDifferenceInCalculatedDensity());
-            System.out.println("Distance between atoms:  " + elements[i].calculateEmpiricalDistaceBetweenAtoms() + "\n");
+            System.out.println("Distance between atoms (in nm):  " + elements[i].calculateEmpiricalDistaceBetweenAtoms() + "\n");
         }
 
 

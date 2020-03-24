@@ -1,4 +1,6 @@
-"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\lib\idea_rt.jar=50035:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\perni\OneDrive\Documents\DataIng\2. Klasse\Vår\Kjemi\Assignment\out\production\Assignment" Element
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\lib\idea_rt.jar=50096:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\perni\OneDrive\Documents\DataIng\2. Klasse\Vår\Kjemi\Assignment\out\production\Assignment" Element
+OUTPUT FOR ØVING: (-1 values means no data)
+
 Element{atomicNumber=1, symbol='H', name='hydrogen', empirical_radius=25, calculated_radius=53, mass=1.0079}
 Element{atomicNumber=2, symbol='He', name='helium', empirical_radius=120, calculated_radius=31, mass=4.0026}
 Element{atomicNumber=3, symbol='Li', name='lithium', empirical_radius=145, calculated_radius=167, mass=6.941}
@@ -123,7 +125,7 @@ Calculated density:1.6162227927314627E-6
 Emperical density: 1.539957764566285E-5
 Difference between stated density and empirical: 7.448042235433715E-5
 Difference between stated density and calculated: 8.826377720726853E-5
-Distance between atoms:  2.6505411969709077E-7
+Distance between atoms (in nm):  2.6505411969709077E-7
 
 helium (He):
 
@@ -131,7 +133,7 @@ Calculated density:3.207513553856636E-5
 Emperical density: 5.529805340448093E-7
 Difference between stated density and empirical: 1.7794701946595518E-4
 Difference between stated density and calculated: 1.4642486446143365E-4
-Distance between atoms:  3.339266553128879E-7
+Distance between atoms (in nm):  3.339266553128879E-7
 
 lithium (Li):
 
@@ -139,7 +141,7 @@ Calculated density:3.55782040566134E-7
 Emperical density: 5.435373947275471E-7
 Difference between stated density and empirical: 0.5339994564626053
 Difference between stated density and calculated: 0.5339996442179594
-Distance between atoms:  2.784261596722892E-8
+Distance between atoms (in nm):  2.784261596722892E-8
 
 beryllium (Be):
 
@@ -147,7 +149,7 @@ Calculated density:1.5313982404786357E-6
 Emperical density: 1.8585502794075531E-6
 Difference between stated density and empirical: 1.8499981414497206
 Difference between stated density and calculated: 1.8499984686017596
-Distance between atoms:  2.00741026406409E-8
+Distance between atoms (in nm):  2.00741026406409E-8
 
 boron (B):
 
@@ -155,7 +157,7 @@ Calculated density:3.9193992049386575E-6
 Emperical density: 4.202623463708073E-6
 Difference between stated density and empirical: 2.339995797376536
 Difference between stated density and calculated: 2.339996080600795
-Distance between atoms:  1.9722703518317326E-8
+Distance between atoms (in nm):  1.9722703518317326E-8
 
 carbon (C):
 
@@ -163,7 +165,7 @@ Calculated density:9.533564342990132E-6
 Emperical density: 8.359601785687292E-6
 Difference between stated density and empirical: 3.5129916403982144
 Difference between stated density and calculated: 3.512990466435657
-Distance between atoms:  1.7839383148469654E-8
+Distance between atoms (in nm):  1.7839383148469654E-8
 
 nitrogen (N):
 
@@ -171,7 +173,7 @@ Calculated density:1.9040709913150713E-5
 Emperical density: 1.2176070321740103E-5
 Difference between stated density and empirical: 2.266987823929678
 Difference between stated density and calculated: 2.2669809592900867
-Distance between atoms:  2.172924040105958E-8
+Distance between atoms (in nm):  2.172924040105958E-8
 
 oxygen (O):
 
@@ -179,7 +181,7 @@ Calculated density:3.45375379300194E-5
 Emperical density: 1.768321942016993E-5
 Difference between stated density and empirical: 0.00123291678057983
 Difference between stated density and calculated: 0.0012160624620699805
-Distance between atoms:  2.7695647441042863E-7
+Distance between atoms (in nm):  2.7695647441042863E-7
 
 fluorine (F):
 
@@ -187,7 +189,7 @@ Calculated density:6.12181987130925E-5
 Emperical density: 3.628427125004478E-5
 Difference between stated density and empirical: 0.0013927157287499552
 Difference between stated density and calculated: 0.0013677818012869075
-Distance between atoms:  2.805291726504966E-7
+Distance between atoms (in nm):  2.805291726504966E-7
 
 neon (Ne):
 
@@ -195,7 +197,7 @@ Calculated density:8.779611655611752E-5
 Emperical density: 1.1761593036297073E-6
 Difference between stated density and empirical: 0.0016948238406963704
 Difference between stated density and calculated: 0.0016082038834438826
-Distance between atoms:  2.703414989186262E-7
+Distance between atoms (in nm):  2.703414989186262E-7
 
 sodium (Na):
 
@@ -203,7 +205,7 @@ Calculated density:8.001729979296719E-7
 Emperical density: 9.410813773661899E-7
 Difference between stated density and empirical: 8.989589186226338E-4
 Difference between stated density and calculated: 8.990998270020703E-4
-Distance between atoms:  3.4876223157653996E-7
+Distance between atoms (in nm):  3.4876223157653996E-7
 
 magnesium (Mg):
 
@@ -211,7 +213,7 @@ Calculated density:1.9032814261422033E-6
 Emperical density: 1.7192270630437848E-6
 Difference between stated density and empirical: 0.9709982807729369
 Difference between stated density and calculated: 0.9709980967185738
-Distance between atoms:  3.46397890817117E-8
+Distance between atoms (in nm):  3.46397890817117E-8
 
 aluminium (Al):
 
@@ -219,7 +221,7 @@ Calculated density:3.920409733681974E-6
 Emperical density: 3.2979756265220924E-6
 Difference between stated density and empirical: 1.7379967020243734
 Difference between stated density and calculated: 1.7379960795902663
-Distance between atoms:  2.9540774704929486E-8
+Distance between atoms (in nm):  2.9540774704929486E-8
 
 silicon (Si):
 
@@ -227,7 +229,7 @@ Calculated density:4.902579154253699E-6
 Emperical density: 5.037505057333689E-6
 Difference between stated density and empirical: 2.6979949624949424
 Difference between stated density and calculated: 2.6979950974208458
-Distance between atoms:  2.5856109596397147E-8
+Distance between atoms (in nm):  2.5856109596397147E-8
 
 phosphorus (P):
 
@@ -235,7 +237,7 @@ Calculated density:7.856473561727705E-6
 Emperical density: 7.394450064509623E-6
 Difference between stated density and empirical: 2.3295926055499354
 Difference between stated density and calculated: 2.329592143526438
-Distance between atoms:  2.8053527981413655E-8
+Distance between atoms (in nm):  2.8053527981413655E-8
 
 sulfur (S):
 
@@ -243,7 +245,7 @@ Calculated density:7.654954875362436E-6
 Emperical density: 7.654954875362436E-6
 Difference between stated density and empirical: 1.8199923450451247
 Difference between stated density and calculated: 1.8199923450451247
-Distance between atoms:  3.081317092749874E-8
+Distance between atoms (in nm):  3.081317092749874E-8
 
 chlorine (Cl):
 
@@ -251,7 +253,7 @@ Calculated density:1.7166553348022064E-5
 Emperical density: 8.46378029615545E-6
 Difference between stated density and empirical: 2.066991536219704
 Difference between stated density and calculated: 2.066982833446652
-Distance between atoms:  3.0538939085133346E-8
+Distance between atoms (in nm):  3.0538939085133346E-8
 
 argon (Ar):
 
@@ -259,7 +261,7 @@ Calculated density:2.6079197250810336E-5
 Emperical density: 2.6079197250810336E-5
 Difference between stated density and empirical: 0.0031879208027491895
 Difference between stated density and calculated: 0.0031879208027491895
-Distance between atoms:  2.723456432831621E-7
+Distance between atoms (in nm):  2.723456432831621E-7
 
 potassium (K):
 
@@ -267,7 +269,7 @@ Calculated density:6.646417389110232E-7
 Emperical density: 8.956501220841993E-7
 Difference between stated density and empirical: 0.001782804349877916
 Difference between stated density and calculated: 0.001783035358261089
-Distance between atoms:  3.3379065488529927E-7
+Distance between atoms (in nm):  3.3379065488529927E-7
 
 calcium (Ca):
 
@@ -275,7 +277,7 @@ Calculated density:1.310425217171905E-6
 Emperical density: 1.6405894571082773E-6
 Difference between stated density and empirical: 0.8619983594105429
 Difference between stated density and calculated: 0.8619986895747828
-Distance between atoms:  4.258101713914037E-8
+Distance between atoms (in nm):  4.258101713914037E-8
 
 scandium (Sc):
 
@@ -283,7 +285,7 @@ Calculated density:1.722838697786759E-6
 Emperical density: 2.620222304496437E-6
 Difference between stated density and empirical: 1.5399973797776956
 Difference between stated density and calculated: 1.5399982771613023
-Distance between atoms:  3.64618275034573E-8
+Distance between atoms (in nm):  3.64618275034573E-8
 
 titanium (Ti):
 
@@ -291,7 +293,7 @@ Calculated density:2.0960884107251714E-6
 Emperical density: 4.164506010010798E-6
 Difference between stated density and empirical: 2.98899583549399
 Difference between stated density and calculated: 2.988997903911589
-Distance between atoms:  2.984831866254458E-8
+Distance between atoms (in nm):  2.984831866254458E-8
 
 vanadium (V):
 
@@ -299,7 +301,7 @@ Calculated density:2.4321748222772357E-6
 Emperical density: 4.942899883259129E-6
 Difference between stated density and empirical: 4.539995057100117
 Difference between stated density and calculated: 4.539997567825178
-Distance between atoms:  2.6510732868796723E-8
+Distance between atoms (in nm):  2.6510732868796723E-8
 
 chromium (Cr):
 
@@ -307,7 +309,7 @@ Calculated density:2.7136753950226985E-6
 Emperical density: 4.523744353043276E-6
 Difference between stated density and empirical: 6.109995476255647
 Difference between stated density and calculated: 6.109997286324606
-Distance between atoms:  2.4176474015631996E-8
+Distance between atoms (in nm):  2.4176474015631996E-8
 
 manganese (Mn):
 
@@ -315,7 +317,7 @@ Calculated density:3.14272664490453E-6
 Emperical density: 4.779694386069176E-6
 Difference between stated density and empirical: 7.149995220305614
 Difference between stated density and calculated: 7.149996857273355
-Distance between atoms:  2.336713010147292E-8
+Distance between atoms (in nm):  2.336713010147292E-8
 
 iron (Fe):
 
@@ -323,7 +325,7 @@ Calculated density:3.51173625215212E-6
 Emperical density: 4.858604845280737E-6
 Difference between stated density and empirical: 7.439995141395155
 Difference between stated density and calculated: 7.439996488263748
-Distance between atoms:  2.3185700884681074E-8
+Distance between atoms (in nm):  2.3185700884681074E-8
 
 cobalt (Co):
 
@@ -331,7 +333,7 @@ Calculated density:3.989972431666188E-6
 Emperical density: 5.695073761237525E-6
 Difference between stated density and empirical: 7.873994304926239
 Difference between stated density and calculated: 7.873996010027568
-Distance between atoms:  2.313206451018195E-8
+Distance between atoms (in nm):  2.313206451018195E-8
 
 nickel (Ni):
 
@@ -339,7 +341,7 @@ Calculated density:4.253168697079347E-6
 Emperical density: 5.718341772426939E-6
 Difference between stated density and empirical: 8.859994281658228
 Difference between stated density and calculated: 8.859995746831302
-Distance between atoms:  2.227025601116038E-8
+Distance between atoms (in nm):  2.227025601116038E-8
 
 copper (Cu):
 
@@ -347,7 +349,7 @@ Calculated density:4.976174511649144E-6
 Emperical density: 6.1659259342890305E-6
 Difference between stated density and empirical: 8.911993834074066
 Difference between stated density and calculated: 8.911995023825488
-Distance between atoms:  2.2792263432360534E-8
+Distance between atoms (in nm):  2.2792263432360534E-8
 
 zinc (Zn):
 
@@ -355,7 +357,7 @@ Calculated density:5.452023196118782E-6
 Emperical density: 6.3448509244194705E-6
 Difference between stated density and empirical: 8.959993655149077
 Difference between stated density and calculated: 8.959994547976805
-Distance between atoms:  2.2969465265021688E-8
+Distance between atoms (in nm):  2.2969465265021688E-8
 
 gallium (Ga):
 
@@ -363,7 +365,7 @@ Calculated density:6.617146213566975E-6
 Emperical density: 7.576304117339248E-6
 Difference between stated density and empirical: 7.133992423695883
 Difference between stated density and calculated: 7.133993382853787
-Distance between atoms:  2.5318079659442947E-8
+Distance between atoms (in nm):  2.5318079659442947E-8
 
 germanium (Ge):
 
@@ -371,7 +373,7 @@ Calculated density:8.878859570837973E-6
 Emperical density: 8.878859570837973E-6
 Difference between stated density and empirical: 5.906991121140429
 Difference between stated density and calculated: 5.906991121140429
-Distance between atoms:  2.733292206570344E-8
+Distance between atoms (in nm):  2.733292206570344E-8
 
 arsenic (As):
 
@@ -379,7 +381,7 @@ Calculated density:1.2072685304338326E-5
 Emperical density: 1.1760476355078898E-5
 Difference between stated density and empirical: 5.322988239523645
 Difference between stated density and calculated: 5.3229879273146965
-Distance between atoms:  2.8591260363306726E-8
+Distance between atoms (in nm):  2.8591260363306726E-8
 
 selenium (Se):
 
@@ -387,7 +389,7 @@ Calculated density:1.7250705308648988E-5
 Emperical density: 1.2394385771219912E-5
 Difference between stated density and empirical: 5.775987605614229
 Difference between stated density and calculated: 5.775982749294691
-Distance between atoms:  2.8314556252020975E-8
+Distance between atoms (in nm):  2.8314556252020975E-8
 
 bromine (Br):
 
@@ -395,7 +397,7 @@ Calculated density:2.2966581175681456E-5
 Emperical density: 1.2542565864533383E-5
 Difference between stated density and empirical: 4.808987457434136
 Difference between stated density and calculated: 4.808977033418825
-Distance between atoms:  3.02172094993019E-8
+Distance between atoms (in nm):  3.02172094993019E-8
 
 krypton (Kr):
 
@@ -403,7 +405,7 @@ Calculated density:2.9356710688995655E-5
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: 3.121970643289311
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 rubidium (Rb):
 
@@ -411,7 +413,7 @@ Calculated density:1.0964183463011338E-6
 Emperical density: 1.5722091843066941E-6
 Difference between stated density and empirical: 0.0037314277908156936
 Difference between stated density and calculated: 0.003731903581653699
-Distance between atoms:  3.362517931341435E-7
+Distance between atoms (in nm):  3.362517931341435E-7
 
 strontium (Sr):
 
@@ -419,7 +421,7 @@ Calculated density:1.991509099104191E-6
 Emperical density: 2.614716771320976E-6
 Difference between stated density and empirical: 1.5319973852832287
 Difference between stated density and calculated: 1.5319980084909008
-Distance between atoms:  4.562448064353735E-8
+Distance between atoms (in nm):  4.562448064353735E-8
 
 yttrium (Y):
 
@@ -427,7 +429,7 @@ Calculated density:2.227585542779296E-6
 Emperical density: 3.6393553125086775E-6
 Difference between stated density and empirical: 2.6399963606446875
 Difference between stated density and calculated: 2.6399977724144574
-Distance between atoms:  3.8240655255541996E-8
+Distance between atoms (in nm):  3.8240655255541996E-8
 
 zirconium (Zr):
 
@@ -435,7 +437,7 @@ Calculated density:2.491258771967128E-6
 Emperical density: 5.84824297080933E-6
 Difference between stated density and empirical: 4.4689941517570295
 Difference between stated density and calculated: 4.468997508741229
-Distance between atoms:  3.236304369946252E-8
+Distance between atoms (in nm):  3.236304369946252E-8
 
 niobium (Nb):
 
@@ -443,7 +445,7 @@ Calculated density:2.8573369146146317E-6
 Emperical density: 7.2753353420998975E-6
 Difference between stated density and empirical: 6.505992724664658
 Difference between stated density and calculated: 6.505997142663086
-Distance between atoms:  2.8729427096558658E-8
+Distance between atoms (in nm):  2.8729427096558658E-8
 
 molybdenum (Mo):
 
@@ -451,7 +453,7 @@ Calculated density:3.33926051324605E-6
 Emperical density: 7.512891175646286E-6
 Difference between stated density and empirical: 8.569992487108825
 Difference between stated density and calculated: 8.569996660739488
-Distance between atoms:  2.6490454262382253E-8
+Distance between atoms (in nm):  2.6490454262382253E-8
 
 technetium (Tc):
 
@@ -459,7 +461,7 @@ Calculated density:3.817545282303547E-6
 Emperical density: 9.5090287596438E-6
 Difference between stated density and empirical: 10.219990490971242
 Difference between stated density and calculated: 10.219996182454718
-Distance between atoms:  2.5157925989326034E-8
+Distance between atoms (in nm):  2.5157925989326034E-8
 
 ruthenium (Ru):
 
@@ -467,7 +469,7 @@ Calculated density:4.278323789316763E-6
 Emperical density: 1.0982560376625759E-5
 Difference between stated density and empirical: 11.499989017439624
 Difference between stated density and calculated: 11.49999572167621
-Distance between atoms:  2.443756428040726E-8
+Distance between atoms (in nm):  2.443756428040726E-8
 
 rhodium (Rh):
 
@@ -475,7 +477,7 @@ Calculated density:4.744731798689375E-6
 Emperical density: 9.9850138676074E-6
 Difference between stated density and empirical: 12.369990014986131
 Difference between stated density and calculated: 12.3699952552682
-Distance between atoms:  2.3994188769055504E-8
+Distance between atoms (in nm):  2.3994188769055504E-8
 
 palladium (Pd):
 
@@ -483,7 +485,7 @@ Calculated density:5.263498838623873E-6
 Emperical density: 9.25871121201139E-6
 Difference between stated density and empirical: 12.409990741288787
 Difference between stated density and calculated: 12.409994736501162
-Distance between atoms:  2.423819451289958E-8
+Distance between atoms (in nm):  2.423819451289958E-8
 
 silver (Ag):
 
@@ -491,7 +493,7 @@ Calculated density:5.732617825336066E-6
 Emperical density: 6.287020470858832E-6
 Difference between stated density and empirical: 12.01999371297953
 Difference between stated density and calculated: 12.019994267382174
-Distance between atoms:  2.4608176324497823E-8
+Distance between atoms (in nm):  2.4608176324497823E-8
 
 cadmium (Cd):
 
@@ -499,7 +501,7 @@ Calculated density:6.430467888899543E-6
 Emperical density: 7.206511889323506E-6
 Difference between stated density and empirical: 10.50099279348811
 Difference between stated density and calculated: 10.50099356953211
-Distance between atoms:  2.609811613055991E-8
+Distance between atoms (in nm):  2.609811613055991E-8
 
 indium (In):
 
@@ -507,7 +509,7 @@ Calculated density:7.220172495292365E-6
 Emperical density: 7.360821290695273E-6
 Difference between stated density and empirical: 8.689992639178708
 Difference between stated density and calculated: 8.689992779827504
-Distance between atoms:  2.7994959388359796E-8
+Distance between atoms (in nm):  2.7994959388359796E-8
 
 tin (Sn):
 
@@ -515,7 +517,7 @@ Calculated density:9.295969475307177E-6
 Emperical density: 9.295969475307177E-6
 Difference between stated density and empirical: 7.3099907040305245
 Difference between stated density and calculated: 7.3099907040305245
-Distance between atoms:  2.998746474847975E-8
+Distance between atoms (in nm):  2.998746474847975E-8
 
 antimony (Sb):
 
@@ -523,7 +525,7 @@ Calculated density:1.2355522252818334E-5
 Emperical density: 9.534809563755387E-6
 Difference between stated density and empirical: 7.286990465190436
 Difference between stated density and calculated: 7.2869876444777475
-Distance between atoms:  3.027390178816564E-8
+Distance between atoms (in nm):  3.027390178816564E-8
 
 tellurium (Te):
 
@@ -531,7 +533,7 @@ Calculated density:1.6280700186207906E-5
 Emperical density: 1.1040895668151658E-5
 Difference between stated density and empirical: 6.684988959104332
 Difference between stated density and calculated: 6.684983719299813
-Distance between atoms:  3.1589419445341525E-8
+Distance between atoms (in nm):  3.1589419445341525E-8
 
 iodine (I):
 
@@ -539,7 +541,7 @@ Calculated density:2.002942786737159E-5
 Emperical density: 1.1101405287095032E-5
 Difference between stated density and empirical: 6.231988898594713
 Difference between stated density and calculated: 6.231979970572133
-Distance between atoms:  3.239595974728817E-8
+Distance between atoms (in nm):  3.239595974728817E-8
 
 xenon (Xe):
 
@@ -547,7 +549,7 @@ Calculated density:2.488179434271193E-5
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: 4.929975118205657
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 caesium (Cs):
 
@@ -555,7 +557,7 @@ Calculated density:1.1989623681339195E-6
 Emperical density: 1.805237308468926E-6
 Difference between stated density and empirical: 0.005885194762691531
 Difference between stated density and calculated: 0.005885801037631866
-Distance between atoms:  3.346822935938197E-7
+Distance between atoms (in nm):  3.346822935938197E-7
 
 barium (Ba):
 
@@ -563,7 +565,7 @@ Calculated density:2.0244439628253282E-6
 Emperical density: 3.298769296285466E-6
 Difference between stated density and empirical: 1.8729967012307036
 Difference between stated density and calculated: 1.872997975556037
-Distance between atoms:  4.956279892823761E-8
+Distance between atoms (in nm):  4.956279892823761E-8
 
 lanthanum (La):
 
@@ -571,7 +573,7 @@ Calculated density:4.472259535255402E-6
 Emperical density: 4.472259535255402E-6
 Difference between stated density and empirical: 3.5939955277404647
 Difference between stated density and calculated: 3.5939955277404647
-Distance between atoms:  4.003718759582245E-8
+Distance between atoms (in nm):  4.003718759582245E-8
 
 cerium (Ce):
 
@@ -579,7 +581,7 @@ Calculated density:8.480625013791002E-6
 Emperical density: 5.283040453184769E-6
 Difference between stated density and empirical: 6.1449947169595465
 Difference between stated density and calculated: 6.144991519374986
-Distance between atoms:  3.3579306436575886E-8
+Distance between atoms (in nm):  3.3579306436575886E-8
 
 praseodymium (Pr):
 
@@ -587,7 +589,7 @@ Calculated density:2.2323138666183915E-6
 Emperical density: 5.3128913133776544E-6
 Difference between stated density and empirical: 6.769994687108686
 Difference between stated density and calculated: 6.769997767686133
-Distance between atoms:  3.257355256453181E-8
+Distance between atoms (in nm):  3.257355256453181E-8
 
 neodymium (Nd):
 
@@ -595,7 +597,7 @@ Calculated density:3.9390858246573115E-6
 Emperical density: 5.438534892284758E-6
 Difference between stated density and empirical: 6.772994561465107
 Difference between stated density and calculated: 6.772996060914175
-Distance between atoms:  3.2823482239422045E-8
+Distance between atoms (in nm):  3.2823482239422045E-8
 
 promethium (Pm):
 
@@ -603,7 +605,7 @@ Calculated density:4.018072880252723E-6
 Emperical density: 5.467190511517539E-6
 Difference between stated density and empirical: 7.006994532809488
 Difference between stated density and calculated: 7.006995981927119
-Distance between atoms:  3.251085583951886E-8
+Distance between atoms (in nm):  3.251085583951886E-8
 
 samarium (Sm):
 
@@ -611,7 +613,7 @@ Calculated density:2.662642357853627E-6
 Emperical density: 5.6692880366329465E-6
 Difference between stated density and empirical: 7.259994330711963
 Difference between stated density and calculated: 7.259997337357642
-Distance between atoms:  3.2519835459606185E-8
+Distance between atoms (in nm):  3.2519835459606185E-8
 
 europium (Eu):
 
@@ -619,7 +621,7 @@ Calculated density:2.9431755538198633E-6
 Emperical density: 5.729766475118974E-6
 Difference between stated density and empirical: 7.519994270233524
 Difference between stated density and calculated: 7.519997056824446
-Distance between atoms:  3.2254531103430207E-8
+Distance between atoms (in nm):  3.2254531103430207E-8
 
 gadolinium (Gd):
 
@@ -627,7 +629,7 @@ Calculated density:2.967797616728909E-6
 Emperical density: 6.4370151237655715E-6
 Difference between stated density and empirical: 5.242993562984877
 Difference between stated density and calculated: 5.242997032202384
-Distance between atoms:  3.6791997948385156E-8
+Distance between atoms (in nm):  3.6791997948385156E-8
 
 terbium (Tb):
 
@@ -635,7 +637,7 @@ Calculated density:3.3308638126567764E-6
 Emperical density: 7.079299473547493E-6
 Difference between stated density and empirical: 7.894992920700526
 Difference between stated density and calculated: 7.894996669136187
-Distance between atoms:  3.2212918660884545E-8
+Distance between atoms (in nm):  3.2212918660884545E-8
 
 dysprosium (Dy):
 
@@ -643,7 +645,7 @@ Calculated density:3.2731070912043023E-6
 Emperical density: 7.23853385490836E-6
 Difference between stated density and empirical: 8.228992761466145
 Difference between stated density and calculated: 8.228996726892907
-Distance between atoms:  3.200750891671518E-8
+Distance between atoms (in nm):  3.200750891671518E-8
 
 holmium (Ho):
 
@@ -651,7 +653,7 @@ Calculated density:3.4110377218491543E-6
 Emperical density: 7.3467911400011835E-6
 Difference between stated density and empirical: 8.54999265320886
 Difference between stated density and calculated: 8.549996588962278
-Distance between atoms:  3.1758590460812726E-8
+Distance between atoms (in nm):  3.1758590460812726E-8
 
 erbium (Er):
 
@@ -659,7 +661,7 @@ Calculated density:3.4591991787971504E-6
 Emperical density: 7.450522671003799E-6
 Difference between stated density and empirical: 8.794992549477328
 Difference between stated density and calculated: 8.79499654080082
-Distance between atoms:  3.1608289295586894E-8
+Distance between atoms (in nm):  3.1608289295586894E-8
 
 thulium (Tm):
 
@@ -667,7 +669,7 @@ Calculated density:3.686124901463946E-6
 Emperical density: 7.525144159703754E-6
 Difference between stated density and empirical: 9.065992474855841
 Difference between stated density and calculated: 9.065996313875099
-Distance between atoms:  3.139427049303798E-8
+Distance between atoms (in nm):  3.139427049303798E-8
 
 ytterbium (Yb):
 
@@ -675,7 +677,7 @@ Calculated density:3.7757129873602926E-6
 Emperical density: 7.708036296943647E-6
 Difference between stated density and empirical: 9.320992291963703
 Difference between stated density and calculated: 9.320996224287013
-Distance between atoms:  3.135531059176076E-8
+Distance between atoms (in nm):  3.135531059176076E-8
 
 lutetium (Lu):
 
@@ -683,7 +685,7 @@ Calculated density:4.0877877191606365E-6
 Emperical density: 7.79387417225693E-6
 Difference between stated density and empirical: 6.964992206125828
 Difference between stated density and calculated: 6.964995912212281
-Distance between atoms:  3.468125318388558E-8
+Distance between atoms (in nm):  3.468125318388558E-8
 
 hafnium (Hf):
 
@@ -691,7 +693,7 @@ Calculated density:4.735166727789826E-6
 Emperical density: 1.1442744100891841E-5
 Difference between stated density and empirical: 9.839988557255898
 Difference between stated density and calculated: 9.839995264833272
-Distance between atoms:  3.111401365538023E-8
+Distance between atoms (in nm):  3.111401365538023E-8
 
 tantalum (Ta):
 
@@ -699,7 +701,7 @@ Calculated density:5.39976613633087E-6
 Emperical density: 1.4169708996891042E-5
 Difference between stated density and empirical: 13.309985830291003
 Difference between stated density and calculated: 13.309994600233864
-Distance between atoms:  2.8262350102267126E-8
+Distance between atoms (in nm):  2.8262350102267126E-8
 
 tungsten (W):
 
@@ -707,7 +709,7 @@ Calculated density:6.104912940184096E-6
 Emperical density: 1.7838161705846085E-5
 Difference between stated density and empirical: 16.653982161838293
 Difference between stated density and calculated: 16.65399389508706
-Distance between atoms:  2.6366769667378725E-8
+Distance between atoms (in nm):  2.6366769667378725E-8
 
 rhenium (Re):
 
@@ -715,7 +717,7 @@ Calculated density:6.690119050642203E-6
 Emperical density: 1.8067833859663195E-5
 Difference between stated density and empirical: 19.24998193216614
 Difference between stated density and calculated: 19.24999330988095
-Distance between atoms:  2.5231216974680725E-8
+Distance between atoms (in nm):  2.5231216974680725E-8
 
 osmium (Os):
 
@@ -723,7 +725,7 @@ Calculated density:7.172576903489526E-6
 Emperical density: 2.0670945487736403E-5
 Difference between stated density and empirical: 21.01997932905451
 Difference between stated density and calculated: 21.019992827423096
-Distance between atoms:  2.4677351132759824E-8
+Distance between atoms (in nm):  2.4677351132759824E-8
 
 iridium (Ir):
 
@@ -731,7 +733,7 @@ Calculated density:7.868386238758963E-6
 Emperical density: 1.865098960298421E-5
 Difference between stated density and empirical: 22.609981349010397
 Difference between stated density and calculated: 22.60999213161376
-Distance between atoms:  2.4168341719050505E-8
+Distance between atoms (in nm):  2.4168341719050505E-8
 
 platinum (Pt):
 
@@ -739,7 +741,7 @@ Calculated density:8.398464407667116E-6
 Emperical density: 1.892859502422238E-5
 Difference between stated density and empirical: 22.649981071404973
 Difference between stated density and calculated: 22.64999160153559
-Distance between atoms:  2.427335484219164E-8
+Distance between atoms (in nm):  2.427335484219164E-8
 
 gold (Au):
 
@@ -747,7 +749,7 @@ Calculated density:8.925982142026063E-6
 Emperical density: 1.9111837889656946E-5
 Difference between stated density and empirical: 21.45998088816211
 Difference between stated density and calculated: 21.459991074017857
-Distance between atoms:  2.4793470689635316E-8
+Distance between atoms (in nm):  2.4793470689635316E-8
 
 mercury (Hg):
 
@@ -755,7 +757,7 @@ Calculated density:9.577062858388362E-6
 Emperical density: 1.4188840015468126E-5
 Difference between stated density and empirical: 19.281985811159984
 Difference between stated density and calculated: 19.28199042293714
-Distance between atoms:  2.5850493694517818E-8
+Distance between atoms (in nm):  2.5850493694517818E-8
 
 thallium (Tl):
 
@@ -763,7 +765,7 @@ Calculated density:1.2852363576765733E-5
 Emperical density: 7.113707351020653E-6
 Difference between stated density and empirical: 13.533592886292649
 Difference between stated density and calculated: 13.533587147636423
-Distance between atoms:  2.9270297154974986E-8
+Distance between atoms (in nm):  2.9270297154974986E-8
 
 lead (Pb):
 
@@ -771,7 +773,7 @@ Calculated density:1.3543751577914703E-5
 Emperical density: 8.481714045432283E-6
 Difference between stated density and empirical: 11.849991518285954
 Difference between stated density and calculated: 11.849986456248422
-Distance between atoms:  3.0735497076649E-8
+Distance between atoms (in nm):  3.0735497076649E-8
 
 bismuth (Bi):
 
@@ -779,7 +781,7 @@ Calculated density:1.7061170944458548E-5
 Emperical density: 1.2180272339839426E-5
 Difference between stated density and empirical: 11.341987819727661
 Difference between stated density and calculated: 11.341982938829057
-Distance between atoms:  3.127675911517528E-8
+Distance between atoms (in nm):  3.127675911517528E-8
 
 polonium (Po):
 
@@ -787,7 +789,7 @@ Calculated density:2.0279459293526063E-5
 Emperical density: 7.274394905862252E-6
 Difference between stated density and empirical: 9.806992725605095
 Difference between stated density and calculated: 9.806979720540706
-Distance between atoms:  3.283117890122987E-8
+Distance between atoms (in nm):  3.283117890122987E-8
 
 astatine (At):
 
@@ -795,7 +797,7 @@ Calculated density:2.4474820907001782E-5
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: 9.319975525179093
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 radon (Rn):
 
@@ -803,7 +805,7 @@ Calculated density:3.067048382500066E-5
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: 6.999969329516175
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 francium (Fr):
 
@@ -811,7 +813,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 radium (Ra):
 
@@ -819,7 +821,7 @@ Calculated density:-1.0
 Emperical density: 5.428807597635682E-6
 Difference between stated density and empirical: 1.8699945711924024
 Difference between stated density and calculated: -1.0
-Distance between atoms:  5.854709922720007E-8
+Distance between atoms (in nm):  5.854709922720007E-8
 
 actinium (Ac):
 
@@ -827,7 +829,7 @@ Calculated density:-1.0
 Emperical density: 7.308586877430889E-6
 Difference between stated density and empirical: 5.499992691413123
 Difference between stated density and calculated: -1.0
-Distance between atoms:  4.0923317112849624E-8
+Distance between atoms (in nm):  4.0923317112849624E-8
 
 thorium (Th):
 
@@ -835,7 +837,7 @@ Calculated density:-1.0
 Emperical density: 9.457434546472434E-6
 Difference between stated density and empirical: 10.069990542565455
 Difference between stated density and calculated: -1.0
-Distance between atoms:  3.364855665698447E-8
+Distance between atoms (in nm):  3.364855665698447E-8
 
 protactinium (Pa):
 
@@ -843,7 +845,7 @@ Calculated density:-1.0
 Emperical density: 9.498459516628476E-6
 Difference between stated density and empirical: 11.719990501540485
 Difference between stated density and calculated: -1.0
-Distance between atoms:  3.20351678476901E-8
+Distance between atoms (in nm):  3.20351678476901E-8
 
 uranium (U):
 
@@ -851,7 +853,7 @@ Calculated density:-1.0
 Emperical density: 1.0557123222235578E-5
 Difference between stated density and empirical: 15.369989442876777
 Difference between stated density and calculated: -1.0
-Distance between atoms:  2.9474148503153754E-8
+Distance between atoms (in nm):  2.9474148503153754E-8
 
 neptunium (Np):
 
@@ -859,7 +861,7 @@ Calculated density:-1.0
 Emperical density: 1.060295539136367E-5
 Difference between stated density and empirical: 18.949989397044607
 Difference between stated density and calculated: -1.0
-Distance between atoms:  2.7526855299409867E-8
+Distance between atoms (in nm):  2.7526855299409867E-8
 
 plutonium (Pu):
 
@@ -867,7 +869,7 @@ Calculated density:-1.0
 Emperical density: 1.0824392164570655E-5
 Difference between stated density and empirical: 20.449989175607836
 Difference between stated density and calculated: -1.0
-Distance between atoms:  2.7022203606422823E-8
+Distance between atoms (in nm):  2.7022203606422823E-8
 
 americium (Am):
 
@@ -875,7 +877,7 @@ Calculated density:-1.0
 Emperical density: 1.086893698829317E-5
 Difference between stated density and empirical: 19.81598913106301
 Difference between stated density and calculated: -1.0
-Distance between atoms:  2.7344776984639325E-8
+Distance between atoms (in nm):  2.7344776984639325E-8
 
 curium (Cm):
 
@@ -883,7 +885,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 berkelium (Bk):
 
@@ -891,7 +893,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 californium (Cf):
 
@@ -899,7 +901,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 einsteinium (Es):
 
@@ -907,7 +909,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 fermium (Fm):
 
@@ -915,7 +917,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 mendelevium (Md):
 
@@ -923,7 +925,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 nobelium (No):
 
@@ -931,7 +933,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 lawrencium (Lr):
 
@@ -939,7 +941,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 rutherfordium (Rf):
 
@@ -947,7 +949,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 dubnium (Db):
 
@@ -955,7 +957,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 seaborgium (Sg):
 
@@ -963,7 +965,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 bohrium (Bh):
 
@@ -971,7 +973,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 hassium (Hs):
 
@@ -979,7 +981,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 meitnerium (Mt):
 
@@ -987,7 +989,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 darmstadtium (Ds):
 
@@ -995,7 +997,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 roentgenium (Rg):
 
@@ -1003,7 +1005,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 copernicium (Cn):
 
@@ -1011,7 +1013,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 nihonium (Nh):
 
@@ -1019,7 +1021,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 flerovium (Fl):
 
@@ -1027,7 +1029,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 moscovium (Mc):
 
@@ -1035,7 +1037,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 livermorium (Lv):
 
@@ -1043,7 +1045,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 tennessine (Ts):
 
@@ -1051,7 +1053,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 oganesson (Og):
 
@@ -1059,7 +1061,7 @@ Calculated density:-1.0
 Emperical density: -1.0
 Difference between stated density and empirical: -1.0
 Difference between stated density and calculated: -1.0
-Distance between atoms:  -1.0
+Distance between atoms (in nm):  -1.0
 
 
 Process finished with exit code 0
