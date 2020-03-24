@@ -12,7 +12,7 @@ public class Element {
     private int calculated_radius;
     private double mass;
     private double stated_density;
-    private final double avogadros = 6.02214076*Math.pow(10,23);
+    private final double avogadros = 6.02214076e+23;
 
 
 
@@ -125,8 +125,8 @@ public class Element {
 
     public double calculateEmpiricalDistaceBetweenAtoms(){
         if(this.calcDifferenceInEmpiricalDensity() != -1){
-            double num_atoms = (calculateEmpericalDensity()*avogadros)/getMass();
-            return (1/(Math.pow(num_atoms, 1/3)));
+            double num_atoms =((calculateEmpericalDensity()*avogadros)/getMass());
+            return 1/(Math.pow(num_atoms, 0.33333333));
         }
         return -1;
     }
@@ -201,9 +201,9 @@ public class Element {
             System.out.println("Emperical density: " + elements[i].symbol + ": " + elements[i].calculateEmpericalDensity() + "\n");
             System.out.println("\nDifference between stated density and empirical:\n" + elements[i].symbol + ": " + elements[i].calcDifferenceInEmpiricalDensity() + "\n");
             System.out.println("\nDifference between stated density and calculated:\n" + elements[i].symbol + ": " + elements[i].calcDifferenceInCalculatedDensity() + "\n");
+            System.out.println("Distance: " + elements[i].calculateEmpiricalDistaceBetweenAtoms());
         }
 
-        System.out.println("Distance: " + elements[0].calculateEmpiricalDistaceBetweenAtoms());
 
 
 
