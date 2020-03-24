@@ -125,7 +125,7 @@ public class Element {
 
     public double calculateEmpiricalDistaceBetweenAtoms(){
         if(this.calcDifferenceInEmpiricalDensity() != -1){
-            double num_atoms =((calculateEmpericalDensity()*avogadros)/getMass());
+            double num_atoms =((getStated_density()*avogadros)/getMass());
             return 1/(Math.pow(num_atoms, 0.33333333));
         }
         return -1;
@@ -197,11 +197,12 @@ public class Element {
 
         //Calculation
         for(int i = 0; i < 118; i++){
-            System.out.println("Calculated density: " + elements[i].symbol + ": " + elements[i].calculateCalculatedDensity());
-            System.out.println("Emperical density: " + elements[i].symbol + ": " + elements[i].calculateEmpericalDensity() + "\n");
-            System.out.println("\nDifference between stated density and empirical:\n" + elements[i].symbol + ": " + elements[i].calcDifferenceInEmpiricalDensity() + "\n");
-            System.out.println("\nDifference between stated density and calculated:\n" + elements[i].symbol + ": " + elements[i].calcDifferenceInCalculatedDensity() + "\n");
-            System.out.println("Distance: " + elements[i].calculateEmpiricalDistaceBetweenAtoms());
+            System.out.println(elements[i].getName() + " ("+ elements[i].getSymbol() + "):\n");
+            System.out.println("Calculated density:" + elements[i].calculateCalculatedDensity());
+            System.out.println("Emperical density: " + elements[i].calculateEmpericalDensity());
+            System.out.println("Difference between stated density and empirical: " + elements[i].calcDifferenceInEmpiricalDensity());
+            System.out.println("Difference between stated density and calculated: " + elements[i].calcDifferenceInCalculatedDensity());
+            System.out.println("Distance between atoms:  " + elements[i].calculateEmpiricalDistaceBetweenAtoms() + "\n");
         }
 
 
