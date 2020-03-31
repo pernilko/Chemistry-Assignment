@@ -73,7 +73,7 @@ public class Element {
 
     public double calculateEmpericalDensity(){
         if(mass != -1.0 && this.calcEmpiricalVolume() !=-1){
-            return mass/this.calcEmpiricalVolume();
+            return (mass*Math.pow(10,30))/(this.calcEmpiricalVolume()*avogadros);
         }else {
             return -1;
         }
@@ -97,7 +97,7 @@ public class Element {
 
     public double calculateCalculatedDensity(){
         if(mass != -1.0 && this.calcCalculatedVolume() !=-1.0){
-            return (mass/this.calcCalculatedVolume());
+            return ((mass*Math.pow(10,30))/(this.calcCalculatedVolume()*avogadros));
         }else {
             return -1;
         }
@@ -203,7 +203,7 @@ public class Element {
             System.out.println("Emperical density: " + elements[i].calculateEmpericalDensity());
             System.out.println("Difference between stated density and empirical: " + elements[i].calcDifferenceInEmpiricalDensity());
             System.out.println("Difference between stated density and calculated: " + elements[i].calcDifferenceInCalculatedDensity());
-            System.out.println("Distance between atoms (in nm):  " + elements[i].calculateEmpiricalDistaceBetweenAtoms() + "\n");
+            System.out.println("Distance between atoms:  " + elements[i].calculateEmpiricalDistaceBetweenAtoms() + "\n");
         }
 
 

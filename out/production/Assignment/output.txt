@@ -1,4 +1,6 @@
-"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\lib\idea_rt.jar=50067:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\perni\OneDrive\Documents\DataIng\2. Klasse\Vår\Kjemi\Assignment\out\production\Assignment" Element
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\lib\idea_rt.jar=50096:C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\perni\OneDrive\Documents\DataIng\2. Klasse\Vår\Kjemi\Assignment\out\production\Assignment" Element
+OUTPUT FOR ØVING: (-1 values means no data)
+
 Element{atomicNumber=1, symbol='H', name='hydrogen', empirical_radius=25, calculated_radius=53, mass=1.0079}
 Element{atomicNumber=2, symbol='He', name='helium', empirical_radius=120, calculated_radius=31, mass=4.0026}
 Element{atomicNumber=3, symbol='Li', name='lithium', empirical_radius=145, calculated_radius=167, mass=6.941}
